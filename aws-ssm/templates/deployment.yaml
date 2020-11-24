@@ -82,4 +82,3 @@ spec:
           hostPath:
             path: {{ .Values.ssl.host_path }}
       {{- end }}
-
